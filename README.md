@@ -2,7 +2,7 @@
 
 Liquid glass carousel for React Native, with cards that bend through glass as you swipe.
 
-https://github.com/user-attachments/assets/REPLACE_WITH_VIDEO_ID
+https://github.com/user-attachments/assets/c5f732b8-3f3a-4367-8ab5-35e3e023ca48
 
 ---
 
